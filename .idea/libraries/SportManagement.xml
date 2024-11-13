@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SportManagement">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SportManagement.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/flatlaf-extras-3.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/flatlaf-3.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/ucanaccess-5.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/flatlaf-fonts-roboto-2.137.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/hsqldb-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jackcess-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/flatlaf-3.5.2-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
