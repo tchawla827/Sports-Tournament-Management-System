@@ -84,7 +84,7 @@ users
 | I.Gupta99  |  10002 | Tavish123 |              3 | cat         | healthcentre
 | K.Singh03  |  10003 | Tavish123 |              2 | blue        | transaction
 | N.Roy03    |  10009 | Tavish123 |              2 | white       | manager
-<!-- | R.Verma01  |  10004 | Tavish123 |              4 | abaida      | -->
+| R.Verma01  |  10004 | Tavish123 |              4 | abaida      |
 | S.Chopra04 |  10007 | Tavish123 |              3 | fish        | coach
 | T.Chawla04 |  10000 | Tavish123 |              1 | bunny       | coach
 | Y.Patel02  |  10008 | Tavish123 |              3 | fish        | 
