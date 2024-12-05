@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jfoenix-8.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/fontbox-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/boxable-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-csv-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/slf4j-api-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/fontawesomefx-fontawesome-4.7.0-5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/charm-glisten-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/fontawesomefx-commons-8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/view-11.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/pdfbox-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/guava-29.0-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

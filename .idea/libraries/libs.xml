@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/view-11.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/fontawesomefx-fontawesome-4.7.0-5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/commons-csv-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/fontawesomefx-commons-8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/slf4j-api-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/boxable-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/fontbox-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/jfoenix-8.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/charm-glisten-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/pdfbox-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sports Complex/libs/guava-29.0-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
