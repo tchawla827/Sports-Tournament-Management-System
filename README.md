@@ -67,58 +67,54 @@ For further details please refer to Software Requirements Specification (SRS) an
     3- In DbQuery.java, update the username and password attributes of class with your MySQL username and password at line 29 and 30 respectively.
     4- Run the project and Enjoy!
 
+
 ### Login details:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77397009/186240805-554e4081-9d39-4b86-89f7-71ef0a42d89a.png">
 </p>
 
-	
+
 ### Use This Info to Login
-users
-+------------+--------+-----------+----------------+-------------+
-| username   | emp_id | password  | security_qs_id | securityAns |
-+------------+--------+-----------+----------------+-------------+
-| A.Kumar98  |  10006 | Tavish123 |              2 | brown       | registration
-| A.Mishra00 |  10005 | Tavish123 |              4 | farzana     | inventory
-| A.Sharma02 |  10001 | Tavish123 |              2 | black       | maintenance
-| I.Gupta99  |  10002 | Tavish123 |              3 | cat         | healthcentre
-| K.Singh03  |  10003 | Tavish123 |              2 | blue        | transaction
-| N.Roy03    |  10009 | Tavish123 |              2 | white       | manager
-| R.Verma01  |  10004 | Tavish123 |              4 | abaida      |
-| S.Chopra04 |  10007 | Tavish123 |              3 | fish        | coach
-| T.Chawla04 |  10000 | Tavish123 |              1 | bunny       | coach
-| Y.Patel02  |  10008 | Tavish123 |              3 | fish        | 
-+------------+--------+-----------+----------------+-------------+
-employee
-+--------+--------------+---------+
-| emp_id | cnic         | dept_id |
-+--------+--------------+---------+
-|  10000 | 374052080001 |       7 |
-|  10001 | 374052080002 |       6 |
-|  10002 | 374052080003 |       5 |
-|  10003 | 374052080004 |       4 |
-|  10004 | 374052080005 |       3 |
-|  10005 | 374052080006 |       2 |
-|  10006 | 374052080007 |       1 |
-|  10007 | 374052080008 |       7 |
-|  10008 | 374052080009 |       8 |
-|  10009 | 374052080010 |       9 |
-+--------+--------------+---------+
-department
-+---------+--------------+---------------+--------+
-| dept_id | deptName     | supervisor_id | salary |
-+---------+--------------+---------------+--------+
-|       1 | registration |         10000 |  45000 |
-|       2 | inventory    |         10001 |  25000 |
-|       3 | medical      |         10003 |  25000 |
-|       4 | finance      |         10004 |  50000 |
-|       5 | emergency    |         10005 |  25000 |
-|       6 | maintenance  |         10006 |  25000 |
-|       7 | coach        |         10007 |  40000 |
-|       8 | attendant    |         10008 |  25000 |
-|       9 | manager      |         10009 |  50000 |
-+---------+--------------+---------------+--------+
+#### Users Table
+| Username   | Emp ID | Password  | Security Qs ID | Security Ans | Department     |
+|------------|--------|-----------|----------------|--------------|----------------|
+| A.Kumar98  | 10006  | Tavish123 | 2              | brown        | registration   |
+| A.Mishra00 | 10005  | Tavish123 | 4              | farzana      | inventory      |
+| A.Sharma02 | 10001  | Tavish123 | 2              | black        | maintenance    |
+| I.Gupta99  | 10002  | Tavish123 | 3              | cat          | healthcentre   |
+| K.Singh03  | 10003  | Tavish123 | 2              | blue         | transaction    |
+| N.Roy03    | 10009  | Tavish123 | 2              | white        | manager        |
+| R.Verma01  | 10004  | Tavish123 | 4              | abaida       |                |
+| S.Chopra04 | 10007  | Tavish123 | 3              | fish         | coach          |
+| T.Chawla04 | 10000  | Tavish123 | 1              | bunny        | coach          |
+| Y.Patel02  | 10008  | Tavish123 | 3              | fish         |                |
 
+#### Employee Table
+| Emp ID | CNIC         | Dept ID |
+|--------|--------------|---------|
+| 10000  | 374052080001 | 7       |
+| 10001  | 374052080002 | 6       |
+| 10002  | 374052080003 | 5       |
+| 10003  | 374052080004 | 4       |
+| 10004  | 374052080005 | 3       |
+| 10005  | 374052080006 | 2       |
+| 10006  | 374052080007 | 1       |
+| 10007  | 374052080008 | 7       |
+| 10008  | 374052080009 | 8       |
+| 10009  | 374052080010 | 9       |
 
+#### Department Table
+| Dept ID | Dept Name     | Supervisor ID | Salary |
+|---------|---------------|---------------|--------|
+| 1       | registration  | 10000         | 45000  |
+| 2       | inventory     | 10001         | 25000  |
+| 3       | medical       | 10003         | 25000  |
+| 4       | finance       | 10004         | 50000  |
+| 5       | emergency     | 10005         | 25000  |
+| 6       | maintenance   | 10006         | 25000  |
+| 7       | coach         | 10007         | 40000  |
+| 8       | attendant     | 10008         | 25000  |
+| 9       | manager       | 10009         | 50000  |
 
-## Project By Tavish Chawla
+---
+
